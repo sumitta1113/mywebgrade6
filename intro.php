@@ -45,7 +45,7 @@
             </ul>
 
             <div class="col-md-3 text-end">
-                <a href="sign-up.php">
+                <a href="register.php">
                     <button type="button" class="btn btn-outline-primary me-2">logout</button></a>
             </div>
             </head>
